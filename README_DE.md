@@ -1,3 +1,5 @@
+# OwnCEX
+Ihre eigene CEX in der Hosentasche
 
 Im Falle eines Blackouts, selbst wenn man eine Solaranlage besitzt, wird kein Strom vom Dach kommen weil alle Umrichter bei Netzausfall in Störung gehen und wessen Umrichter bei gemieteten Anlagen nicht in Inselbetrieb oder Hybridbetrieb umschalten können, obwohl der Umbau technisch möglich ist, denn sollte kann man weder seine Kühlanlage, noch seine Heizung, noch seine Bankgeschäfte erledigen. 
 
